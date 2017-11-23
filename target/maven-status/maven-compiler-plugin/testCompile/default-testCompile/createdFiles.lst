@@ -1,0 +1,9 @@
+by\tut\email\components\inboxpage\LeftToolbarPanelComponent.class
+by\tut\email\components\mainpage\MainToolbarComponent.class
+by\tut\email\pages\InboxPage.class
+by\tut\email\components\inboxpage\TableOfMesagesComponent.class
+by\tut\email\pages\MainPage.class
+base\selenium\BaseSettings.class
+by\tut\email\components\mainpage\AuthorizePopupComponent.class
+base\selenium\AbstractPage.class
+by\tut\email\tests\EmailTests.class

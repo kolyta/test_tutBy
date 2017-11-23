@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54771" started-at="2017-11-23T00:24:00Z" finished-at="2017-11-23T00:24:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54771" started-at="2017-11-23T00:24:00Z" finished-at="2017-11-23T00:24:55Z">
+      <class name="by.tut.email.tests.EmailTests">
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:by.tut.email.tests.EmailTests@20e2cbe0]" name="testSetup" is-config="true" duration-ms="11656" started-at="2017-11-23T03:24:00Z" finished-at="2017-11-23T03:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="emailCheck()[pri:0, instance:by.tut.email.tests.EmailTests@20e2cbe0]" name="emailCheck" duration-ms="41517" started-at="2017-11-23T03:24:12Z" finished-at="2017-11-23T03:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailCheck -->
+        <test-method status="PASS" signature="testClose()[pri:0, instance:by.tut.email.tests.EmailTests@20e2cbe0]" name="testClose" is-config="true" duration-ms="1581" started-at="2017-11-23T03:24:53Z" finished-at="2017-11-23T03:24:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClose -->
+      </class> <!-- by.tut.email.tests.EmailTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
